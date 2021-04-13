@@ -23,8 +23,10 @@ DB_HOST=***Database host URL***
 DB_PORT=***Database connection porl***
 DB_NAME=***Database name***
 DB_USER=***Database username***
-DB_PASSWORD=*** Database user password***
+DB_PASSWORD=***Database user password***
 DEBUG=***Django debug state True or False***
+VERY_SECRET_KEY=***Key to encode all website passwords***
+ALLOWED_HOSTS=***Currently works with local IP-addresses 0.0.0.0,127.0.0.1***
 ```
 ### How to run
 
